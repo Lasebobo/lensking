@@ -108,7 +108,7 @@ footer {
 
 @media (max-width: 560px){   
     li {
-        font-size: x-ssmall;
+        font-size: x-small;
     }
     
     .cards {
