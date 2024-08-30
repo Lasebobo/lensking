@@ -70,6 +70,9 @@ footer {
 
 
 @media (max-width: 990px){
+    p {
+        font-size: 10px;
+    }
     li {
         font-size: 12px;
     }
@@ -108,12 +111,18 @@ footer {
 }
 
 @media (max-width: 768px){
+    p {
+        font-size: 8px;
+    }
     li {
         font-size: 10px
     }
 }
 
-@media (max-width: 560px){   
+@media (max-width: 560px){  
+    p {
+        font-size: 6px;
+    }
     li {
         font-size: 8px;
     }
